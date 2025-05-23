@@ -23,7 +23,7 @@ Each project demonstrates real-world problem solving using Python libraries like
 **Objective:** Consult for a real estate start-up by analyzing the NYC Airbnb short-term rental market.
 
 **Key Tasks:**
-- Imported and cleaned multi-format data (CSV, Excel, TSV).
+- Imported, cleaned, and merged multi-format data (CSV, Excel, TSV).
 - Extracted earliest and most recent review dates.
 - Calculated number of private room listings and average listing price.
 - Summarized insights in a single-row report DataFrame.
